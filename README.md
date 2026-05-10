@@ -2,6 +2,10 @@
 
 > 测试日期：2026-05-08 ~ 2026-05-09 | 6维度评分 | 16个模型 | 质量75% + 速度25%
 
+**在线文档：**
+- 飞书综合评测报告（含全部8个章节）：https://www.feishu.cn/docx/CE5Xdc9rOolJO5xCwyectHRRnMd
+- 飞书NVIDIA评测结果：https://www.feishu.cn/docx/WANLdXWtAodLROxC7ejcBY6RnyY
+
 ---
 
 ## 一、评测概述
